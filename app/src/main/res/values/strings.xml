@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">FII SQL</string>
+
+    <string name="field_title">Title</string>
+    <string name="field_description">Description</string>
+
+    <string name="btn_add">Add</string>
+    <string name="btn_cancel">Cancel</string>
+
+</resources>
